@@ -1,4 +1,4 @@
-FROM lsiobase/ubuntu:bionic
+FROM juguerre/lsiobase-i386-ubuntu:latest
 
 # environment settings
 ARG DEBIAN_FRONTEND="noninteractive"
